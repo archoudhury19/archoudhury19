@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ankur 👋  
+**CSE Student | Software Developer | Learning Systems & Full-Stack**
 
-<!--
-**archoudhury19/archoudhury19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 What I Do  
+- Build full-stack and backend projects  
+- Deploy apps on cloud platforms (Render, Vercel)  
+- Practice DSA + problem solving  
+- Explore system design and scalable architectures  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+**Languages:** C, C++, Java, Python, JavaScript  
+**Backend:** Node.js, Express, Flask  
+**Frontend:** HTML, CSS, React (beginner)  
+**Cloud:** Render, Vercel  
+**Tools:** Git, Linux, Docker, Postman, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus  
+- Strengthening DSA  
+- Building cloud-ready projects  
+- Preparing for coding rounds & hackathons  
+
+### 📌 Featured Projects  
+*(I’ll update this as I upload more)*
+
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archoudhury19&show_icons=true)
+
+### 📫 Connect with Me  
+**LinkedIn:** www.linkedin.com/in/ankurraychoudhury  
+**Email:** archoudhury19@gmail.com
