@@ -1,5 +1,5 @@
 # Hi, I'm Ankur 👋  
-**CSE Student | Software Developer | Learning Systems & Full-Stack**
+**CSE Student | Software Developer | Learning Systems architecture & Full-Stack engineering**
 
 ### 🚀 What I Do  
 - Build full-stack and backend projects  
@@ -9,15 +9,15 @@
 
 ### 🛠️ Tech Stack  
 **Languages:** C, C++, Java, Python, JavaScript  
-**Backend:** Node.js, Express, Flask  
-**Frontend:** HTML, CSS, React (beginner)  
-**Cloud:** Render, Vercel  
-**Tools:** Git, Linux, Docker, Postman, VS Code  
+**Backend:** FastAPI,Node.js, Express, Flask  
+**Frontend:** HTML, CSS, React + Vite(Intermediate)  
+**Cloud:** Render, Railway, Netlify 
+**Tools:** Git, Linux, Docker(Basics), VS Code  
 
 ### 🔭 Current Focus  
 - Strengthening DSA  
 - Building cloud-ready projects  
-- Preparing for coding rounds & hackathons  
+- Preparing for coding rounds, hackathons & system design interview  
 
 ### 📌 Featured Projects  
 *(I’ll update this as I upload more)*
