@@ -23,7 +23,7 @@
 *(I’ll update this as I upload more)*
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archoudhury19&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archoudhury19&show_icons=true&theme=tokyonight)
 
 ### 📫 Connect with Me  
 **LinkedIn:** www.linkedin.com/in/ankurraychoudhury  
