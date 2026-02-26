@@ -8,7 +8,7 @@
 - Explore system design and scalable architectures  
 
 ### 🛠️ Tech Stack  
-**Languages:** C, C++, Java, Python, JavaScript  
+**Languages:** C, C++, Java, Python, JavaScript(Intermediate)  
 **Backend:** FastAPI,Node.js, Express, Flask  
 **Frontend:** HTML, CSS, React + Vite(Intermediate)  
 **Cloud:** Render, Railway, Netlify 
